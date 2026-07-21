@@ -1,8 +1,6 @@
-print ("hello world")
 print ("Hello World")
 
+name = input("Enter your Name: ")
 age = input("Enter your Age: ")
-print("Hello", name, "you are", age, "years old.")
+print("Hello", name, "I am ", age, "years old.")
 
-a = 10
-print (type(a))
